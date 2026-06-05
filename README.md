@@ -38,8 +38,5 @@ Strong Password
 - Input Validation
 - Regular Expressions
 
-## Project Output
-screenshots/output.png
-
 ## Author
 Bhavani Reddy
