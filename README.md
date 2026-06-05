@@ -39,8 +39,7 @@ Strong Password
 - Regular Expressions
 
 ## Project Output
-
-![Output Screenshot](screenshots/output.png)
+screenshots/output.png
 
 ## Author
 Bhavani Reddy
